@@ -72,11 +72,6 @@ Anime streaming interface built with React and TypeScript using the Jikan API.
 
 ---
 
-## GitHub
-
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=luxqxqm&show_icons=true&hide_border=true&theme=transparent"
-    alt="GitHub Stats"
-  />
+  <i>Build. Break. Learn. Repeat.</i>
 </p>
